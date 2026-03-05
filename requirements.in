@@ -1,0 +1,17 @@
+polars
+fastapi
+uvicorn
+transformers[torch]
+langgraph
+requests
+python-dotenv
+httpx
+fastapi
+pydantic
+sqlalchemy
+streamlit
+langsmith
+langchain-core
+langchain-community
+langchain-anthropic
+langchain-openai

@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data & Models (Important for MLE)
+# Don't push huge model files or datasets to GitHub!
+data/
+models/
+*.csv
+*.json
+*.parquet
